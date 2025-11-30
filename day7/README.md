@@ -10,7 +10,7 @@ model training
 evaluation  
 feature importance analysis  
 
----
+
 
 ## Dataset
 Source: *Students Performance in Exams* (Kaggle)
@@ -27,7 +27,7 @@ Ex_day7_week2
 - `reading score`
 - `writing score`
 
----
+
 
 ## Target Variable
 math score
@@ -37,7 +37,7 @@ It is a continuous numerical value.
 Suitable for a **regression problem**.
 Easy to interpret: *predict the math score based on the student’s profile and other exam scores.*
 
----
+
 
 ##  ML Workflow
 
