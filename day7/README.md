@@ -12,7 +12,7 @@ feature importance analysis
 
 ---
 
-## 🔹 Dataset
+## Dataset
 Source: *Students Performance in Exams* (Kaggle)
 
 Key columns:
@@ -29,7 +29,7 @@ Ex_day7_week2
 
 ---
 
-## 🔹 Target Variable
+## Target Variable
 math score
 
 Reason:
@@ -39,7 +39,7 @@ Easy to interpret: *predict the math score based on the student’s profile and 
 
 ---
 
-## 🔹 ML Workflow
+##  ML Workflow
 
 ### 1. Load Data
 python
