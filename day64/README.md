@@ -1,0 +1,1 @@
+This project is a simple Deep Learning model built with TensorFlow and Keras for handwritten digit recognition using the MNIST dataset. The model learns patterns from image data, trains on thousands of samples, and predicts numbers from 0 to 9 with high accuracy. It also includes data preprocessing, model evaluation, and prediction visualization using Matplotlib.
